@@ -32,19 +32,10 @@ A full-stack React + Express application that allows users to authenticate with 
 ---
 
 ## 📸 Screenshots
+![Uploading image.png…]()
 
-> _(Add your actual screenshots here)_
 
-1. **API Key Authentication**
-2. **Actor Selection List**
-3. **Schema Input Form**
-4. **Actor Execution Trigger**
-5. **Real-Time Result Display**
-6. **Error Alerts (e.g. Invalid Token, Schema Error)**
 
----
-
-## 🧪 Tested Actor
 
 For demonstration, this app uses a simple public actor with input like:
 

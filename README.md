@@ -32,7 +32,15 @@ A full-stack React + Express application that allows users to authenticate with 
 ---
 
 ## 📸 Screenshots
-![Uploading image.png…]()
+Authentication
+<img width="941" height="446" alt="image" src="https://github.com/user-attachments/assets/bd69cc00-029d-4622-92d2-6bb69310b4d1" />
+Available Actors
+<img width="959" height="404" alt="image" src="https://github.com/user-attachments/assets/6163489e-ba14-4510-acc3-d2e502a30b11" />
+Execute Actors
+<img width="1916" height="897" alt="image" src="https://github.com/user-attachments/assets/2928d9fc-d001-4aa8-8ee0-8dd12e25c309" />
+Error Handling
+<img width="1896" height="896" alt="image" src="https://github.com/user-attachments/assets/f42bb1a2-dfc0-4873-8629-b84354daed1f" />
+
 
 
 
